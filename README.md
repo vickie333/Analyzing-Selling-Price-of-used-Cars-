@@ -1,6 +1,6 @@
 # 🚗 Analyzing Selling Price of Used Cars
 
-This project performs an exploratory data analysis (EDA) on the [Imports-85 Automobile Dataset](https://archive.ics.uci.edu/ml/datasets/automobile), focusing on the **selling price of used cars**. The goal is to discover relationships between vehicle features and their price, using data cleaning, visualization, and statistical analysis.
+This project performs an exploratory data analysis on the [Imports-85 Automobile Dataset](https://archive.ics.uci.edu/ml/datasets/automobile), focusing on the **selling price of used cars**. The goal is to discover relationships between vehicle features and their price, using data cleaning, visualization, and statistical analysis.
 
 ## 📊 Project Highlights
 

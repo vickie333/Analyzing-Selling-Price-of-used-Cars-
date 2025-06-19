@@ -19,7 +19,7 @@ The dataset used is `imports-85.data`, which includes technical and pricing info
 
 ### 1. Clone this repository
 
-git clone https://github.com/tu_usuario/Analyzing-Selling-Price-of-used-Cars.git
+git clone https://github.com/vickie333/Analyzing-Selling-Price-of-used-Cars-.git
 
 ### 2. Install dependencies
 
